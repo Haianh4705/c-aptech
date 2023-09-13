@@ -3,10 +3,6 @@
 int main() {
     double a1, b1, c1, a2, b2, c2;
     scanf("%lf %lf %lf %lf %lf %lf", &a1, &b1, &c1, &a2, &b2, &c2);
-    /*
-    x + 3/2y = 1/2
-    x - y = 3
-    */
     if (a1 == 0 || a2 == 0) {
         printf("PT vo nghiem hoac vo so nghiem\n");
     } else {
