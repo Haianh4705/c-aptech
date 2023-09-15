@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 int main() {
-	int y[5];
+	bool a = true;
 	
 	return 0;
 }
