@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 
 const int LEN = 10;
 
@@ -47,7 +48,6 @@ int main() {
 			j++;
 		}
 	}
-	printf("%d, %d", k[0], k[1]);
 	
 	return 0;
 }
